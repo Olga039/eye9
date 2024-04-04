@@ -7,3 +7,5 @@ Challenge 4
 
 My team and I have been developing an iOS application designed to empower blind and visually impaired individuals, enabling them to navigate both indoor and outdoor environments with confidence and ease, using audio guidance, haptic feedback. 
 
+##
+![q2w](https://github.com/Olga039/eye9/assets/147190274/a89b8cfc-0dd8-44b2-b491-7772ca038638)
