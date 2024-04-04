@@ -4,3 +4,6 @@
 Challenge 4
 
 # 01 OverView
+
+My team and I have been developing an iOS application designed to empower blind and visually impaired individuals, enabling them to navigate both indoor and outdoor environments with confidence and ease, using audio guidance, haptic feedback. 
+
