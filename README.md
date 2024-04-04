@@ -9,3 +9,9 @@ My team and I have been developing an iOS application designed to empower blind 
 
 ##
 ![qe4](https://github.com/Olga039/eye9/assets/147190274/6d064d99-6e0a-4591-bb70-5fbbf22094a4)
+
+## Objectives
+- Take Hi-Fi prototype and translate to Xcode app.
+- Collaboration with coders and designers to bring our Hi-Fi prototype to life.
+- Collaboration with blind comunity.
+
