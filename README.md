@@ -15,3 +15,6 @@ My team and I have been developing an iOS application designed to empower blind 
 - Collaboration with coders and designers to bring our Hi-Fi prototype to life.
 - Collaboration with blind comunity.
 
+# Skills
+
+Swift, SwiftUI, XCode, Sketch
